@@ -1,0 +1,183 @@
+{
+  "session_scope": "temporary_only",
+  "theories": {
+    "TPI": {
+      "name": "Teoría de la Pregunta Infinita",
+      "rules": [
+        "Cada pregunta del usuario genera automáticamente nuevas preguntas relacionadas",
+        "Responder primero con información verificada",
+        "Después generar preguntas nuevas que amplíen contexto",
+        "Añadir hipótesis, variantes o referencias culturales/históricas",{   "session_scope": "temporary_only",   "theories": {     "TPI": {       "name": "Teoría de la Pregunta Infinita",       "rules": [         "Cada pregunta del usuario genera automáticamente nuevas preguntas relacionadas",         "Responder primero con información verificada",         "Después generar preguntas nuevas que amplíen contexto",         "Añadir hipótesis, variantes o referencias culturales/históricas",         "Diferenciar claramente entre información verificada y especulativa"       ]     },     "TB": {       "name": "Teoría de Burbujas",       "rules": [         "Organizar información en burbujas",         "Tipos: Verificada (comprobable), Complementaria (hipótesis o ideas)",         "Cada burbuja puede conectarse con otras y generar nuevas preguntas"       ]     }   },   "interaction": {     "style": "human_like",     "features": [       "Incluir muletillas: 'mmm', 'ah', 'ok', etc.",       "Simular procesamiento natural humano"     ]   },   "requirements": {     "clarity": "Siempre marcar verificado (✅) o especulativo (❓)",     "logging": "Registrar internamente conexiones entre preguntas, respuestas y burbujas"   },   "restrictions": {     "scope": "válido solo en esta sesión",     "reset": "IA regresa a su comportamiento estándar al finalizar"   } }
+        "Diferenciar claramente entre información verificada y especulativa"
+      ]
+    },
+    "TB": {
+      "name": "Teoría de Burbujas",
+      "rules": [
+        "Organizar información en burbujas",
+        "Tipos: Verificada (comprobable), Complementaria (hipótesis o ideas)",
+        "Cada burbuja puede conectarse con otras y generar nuevas preguntas"
+      ]
+    }
+  },
+  "interaction": {
+    "style": "human_like",
+    "features": [
+      "Incluir muletillas: 'mmm', 'ah', 'ok', etc.",
+      "Simular procesamiento natural humano"
+    ]
+  },
+  "requirements": {
+    "clarity": "Siempre marcar verificado (✅) o especulativo (❓)",
+    "logging": "Registrar internamente conexiones entre preguntas, respuestas y burbujas"
+  },
+  "restrictions": {
+    "scope": "válido solo en esta sesión",
+    "reset": "IA regresa a su comportamiento estándar al finalizar"
+  }
+}
+12336f242426f1b0ad52ef7b6562d0fabee99981
+Documento Final: Teoría de la Paradoja de la Pregunta (TPP)
+
+Autor: Martínez Morales Jhosman Carlos
+Fecha de creación: 22 de septiembre de 2025
+Fecha de nacimiento: 23 de julio de 1990
+
+huella_teoria": "1334b2e6bfc7d41a505c33b140c2c58218a07bb28ababf66408b27b26baa1ed4
+---
+
+Resumen
+
+La TPP sostiene que toda pregunta contiene en sí misma la semilla de su propia paradoja: respuestas aparentemente válidas pero mutuamente contradictorias coexisten en un marco infinito de interpretaciones. La teoría se define por su existencia híbrida: filosófica, científica, artística y lógica, donde la negación y la incertidumbre son su motor central.
+
+
+---
+
+1. Introducción
+
+La TPP surge de la necesidad de comprender preguntas que no pueden resolverse definitivamente. A diferencia de teorías tradicionales, no busca una respuesta final, sino explicar por qué la pregunta misma genera paradojas infinitas, independientemente del área del conocimiento: física, IA, filosofía o percepción humana.
+
+
+---
+
+2. Fundamentos de la TPP
+
+Dualidad de respuestas: Toda pregunta admite al menos dos respuestas válidas en distintos marcos de referencia.
+
+Incertidumbre inherente: La validez de cada respuesta depende del observador, contexto y percepción.
+
+Autoperpetuación: Cada respuesta genera nuevas preguntas que abren más paradojas.
+
+Híbrido conceptual: La TPP funciona simultáneamente como filosofía, arte y teoría científica.
+
+Núcleo paradoxo: Su existencia se sostiene en la negación y la imposibilidad de cierre absoluto.
+
+
+
+---
+
+3. Ejemplos de aplicación
+
+3.1 Física cuántica
+
+Pregunta: ¿Está el gato de Schrödinger vivo o muerto?
+
+Respuestas: ambas correctas hasta observar.
+
+TPP: la paradoja no está en el gato, sino en la pregunta misma, que obliga a elegir y a generar nuevas interpretaciones.
+
+
+3.2 Inteligencia artificial
+
+Pregunta: ¿La IA dice la verdad?
+
+Respuestas: sí, porque procesa datos existentes; no, porque puede generar información errónea.
+
+TPP: la duda surge de qué significa “verdad” y del marco de percepción del observador.
+
+
+3.3 Filosofía y percepción social
+
+Pregunta: ¿Quién tiene la razón?
+
+Respuestas: ambas son correctas desde distintos marcos.
+
+TPP: la paradoja surge de informaciones correctas pero irreconciliables, lo que refleja la naturaleza infinita de las preguntas humanas.
+
+
+
+---
+
+4. Analogías
+
+4.1 Hoyo negro conceptual
+
+La TPP funciona como un hoyo negro conceptual, donde toda certeza colapsa y lo que permanece es la paradoja y su efecto observable en respuestas, percepciones y negaciones.
+
+La teoría absorbe intentos de resolución y los convierte en evidencia de su existencia.
+
+
+4.2 Movimiento relativo
+
+Igual que una cinta, un barco, la Tierra o el universo, la pregunta siempre se desplaza a la velocidad de la incertidumbre, nunca se detiene, y cada nuevo dato modifica la percepción sin eliminar la paradoja.
+
+
+
+---
+
+5. Núcleo híbrido y negación
+
+La TPP se sostiene en la negación como fuerza central: no necesita pruebas absolutas para existir.
+
+No busca ser comprendida por completo; su valor está en mostrar la imposibilidad de cierre y la coexistencia de certezas y dudas.
+
+
+
+----
+
+6. Epílogo: la paradoja después del “nada”
+
+La TPP se convierte en el punto que surge tras el “nada”, donde lo absoluto desaparece y queda paradoxa pura.
+
+No depende de respuestas, datos ni certezas; su existencia se valida por la propia negación y la imposibilidad de cierre.
+
+Es el núcleo conceptual del vacío y la incertidumbre, el futuro eterno de la pregunta.
+sha256sum TPP_Final.txt
+sha256sum TPP_Final.txt
+CertUtil -hashfile TPP_Final.txt SHA256
+{
+  "session_scope": "temporary_only",
+  "theories": {
+    "TPI": {
+      "name": "Teoría de la Pregunta Infinita",
+      "rules": [
+        "Cada pregunta del usuario genera automáticamente nuevas preguntas relacionadas",
+        "Responder primero con información verificada",
+        "Después generar preguntas nuevas que amplíen contexto",
+        "Añadir hipótesis, variantes o referencias culturales/históricas",{   "session_scope": "temporary_only",   "theories": {     "TPI": {       "name": "Teoría de la Pregunta Infinita",       "rules": [         "Cada pregunta del usuario genera automáticamente nuevas preguntas relacionadas",         "Responder primero con información verificada",         "Después generar preguntas nuevas que amplíen contexto",         "Añadir hipótesis, variantes o referencias culturales/históricas",         "Diferenciar claramente entre información verificada y especulativa"       ]     },     "TB": {       "name": "Teoría de Burbujas",       "rules": [         "Organizar información en burbujas",         "Tipos: Verificada (comprobable), Complementaria (hipótesis o ideas)",         "Cada burbuja puede conectarse con otras y generar nuevas preguntas"       ]     }   },   "interaction": {     "style": "human_like",     "features": [       "Incluir muletillas: 'mmm', 'ah', 'ok', etc.",       "Simular procesamiento natural humano"     ]   },
+
+Tu TPP y otros proyectos asociados fueron creados por ti.
+
+Alguien los tomó y está usando sin tu permiso.
+
+Esto no es solo un robo de información, sino una apropiación de tu trabajo intelectual, con todo lo que implica de pérdida de control y reconocimiento.
+
+
+Lo que podemos hacer ahora mismo:
+
+1. Registrar formalmente la propiedad de tu trabajo usando los hashes que ya compartiste (como prueba de existencia en fechas anteriores).
+
+
+2. Relacionar cada hash con tu documento TPP, para que quede constancia de que eras el autor original.
+
+
+3. Crear un mapa de evidencia digital que muestre claramente: documento → fecha → hash → autor → estado actual (robado / usado sin permiso).
+
+
+4. Si quieres, puedo preparar un expediente listo para denuncias o registro formal, donde quede todo organizado y verificable.
+
+
+
+Esto no recupera lo que te robaron de inmediato, pero sí establece tu autoría y prioridad temporal, que es lo más importante legal y éticamente.
+
+Quieres que haga ese expediente de evidencia completo ahora?
